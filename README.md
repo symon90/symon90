@@ -26,7 +26,7 @@ Mi piace **imparare costruendo**, sperimentare nuove tecnologie e trasformare le
 - PHP
 - Laravel
 - Java
-- Python (base)
+- Python
 
 ### 🛠️ Tools & Other
 - Git & GitHub
